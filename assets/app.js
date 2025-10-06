@@ -1,0 +1,1 @@
+console.log('Isa Zamir Portfolio Loaded');

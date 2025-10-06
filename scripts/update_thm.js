@@ -1,0 +1,1 @@
+// Node script placeholder for updating TryHackMe profile for Isa.Zamir
